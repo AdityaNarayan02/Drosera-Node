@@ -249,8 +249,8 @@ sudo ufw allow 31314/tcp
 
 ## 6. Install & Run Operator
 **Choose one Installation Method:**
-* Method 1: [Install using Docker](https://github.com/0xmoei/Drosera-Network/blob/main/README.md#method-1-docker)
-* Method 2: [Install using SystemD](https://github.com/0xmoei/Drosera-Network/blob/main/README.md#method-2-systemd)
+* Method 1: [Install using Docker](https://github.com/AdityaNarayan02/Drosera-Node/blob/main/Installation.md#method-1-docker)
+* Method 2: [Install using SystemD](https://github.com/AdityaNarayan02/Drosera-Node/blob/main/README.md#method-2-systemd)
 
 ## Method 1: Docker
 ### 6-1-1: Configure Docker
