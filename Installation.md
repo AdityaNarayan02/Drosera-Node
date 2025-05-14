@@ -1,6 +1,6 @@
 # Drosera-Node
 # Drosera-Network
-In this Guide, we contribute to Drosera testnet by:
+In this Guide, we will join the Drosera testnet by:
 1. Installing the CLI
 2. Setting up a vulnerable contract
 3. Deploying a Trap on testnet
