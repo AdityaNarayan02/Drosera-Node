@@ -12,6 +12,18 @@ In this Guide, we will join the Drosera testnet by:
 * 20 GB Disk Space
 * Get started with a low-budget `VPS` for as low as $5! [Purchase here](https://my.hostbrr.com/order/forms/a/NTMxNw==)
 * Create your own `Ethereum Holesky RPC` in [Alchemy](https://dashboard.alchemy.com/) or [QuickNode](https://dashboard.quicknode.com/).
+  ## Public Holesky RPC urls
+  #### Randomly Select Public RPC:
+
+https://holesky.drpc.org
+
+https://endpoints.omniatech.io/v1/eth/holesky/public
+
+https://holesky.gateway.tenderly.co
+
+https://ethereum-holesky-rpc.publicnode.com
+
+https://1rpc.io/holesky
 
 ### Install Dependecies
 ```
